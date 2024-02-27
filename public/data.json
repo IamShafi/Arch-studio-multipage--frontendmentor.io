@@ -1,0 +1,259 @@
+{
+  "slider": [
+    {
+      "title": "Project Paramour",
+      "content": "Project made for an art museum near Southwest London. Project Paramour is a statement of bold, modern architecture.",
+      "images": {
+        "desktop": "/assets/images/home-images/desktop/image-hero-paramour.jpg",
+        "tablet": "/assets/images/home-images/tablet/image-hero-paramour.jpg",
+        "mobile": "/assets/images/home-images/mobile/image-hero-paramour.jpg"
+      }
+    },
+    {
+      "title": "Seraph Station",
+      "content": "The Seraph Station project challenged us to design a unique station that would transport people through time. The result is a fresh and futuristic model inspired by space stations.",
+      "images": {
+        "desktop": "/assets/images/home-images/desktop/image-hero-seraph.jpg",
+        "tablet": "/assets/images/home-images/tablet/image-hero-seraph.jpg",
+        "mobile": "/assets/images/home-images/mobile/image-hero-seraph.jpg"
+      }
+    },
+    {
+      "title": "Federal II Tower",
+      "content": "A sequel theme project for a tower originally built in the 1800s. We achieved this with a striking look of brutal minimalism with modern touches.",
+      "images": {
+        "desktop": "/assets/images/home-images/desktop/image-hero-federal.jpg",
+        "tablet": "/assets/images/home-images/tablet/image-hero-federal.jpg",
+        "mobile": "/assets/images/home-images/mobile/image-hero-federal.jpg"
+      }
+    },
+    {
+      "title": "Trinity Bank Tower",
+      "content": "Trinity Bank challenged us to make a concept for a 84 story building located in the middle of a city with a high earthquake frequency. For this project we used curves to blend design and stability to meet our objectives.",
+      "images": {
+        "desktop": "/assets/images/home-images/desktop/image-hero-trinity.jpg",
+        "tablet": "/assets/images/home-images/tablet/image-hero-trinity.jpg",
+        "mobile": "/assets/images/home-images/mobile/image-hero-trinity.jpg"
+      }
+    }
+  ],
+  "HomePageWelcome": {
+    "img": "/assets/images/home-images/desktop/image-welcome.jpg",
+    "heading": "Welcome to Arch Studio",
+    "paragraphs": {
+      "one": "We have a unique network and skillset to help bring your projects to life. Our small team of highly skilled individuals combined with our large network put us in a strong position to deliver exceptional results.",
+      "two": "Over the past 10 years, we have worked on all kinds of projects. From stations to high-rise buildings, we create spaces that inspire and delight.",
+      "three": "We work closely with our clients so that we understand the intricacies of each project. This allows us to work in harmony the surrounding area to create truly stunning projects that will stand the test of time."
+    }
+  },
+  "HomePageBannerImgs": {
+    "desktop": "/assets/images/home-images/desktop/image-small-team.jpg",
+    "tablet": "/assets/images/home-images/tablet/image-small-team.jpg",
+    "mobile": "/assets/images/home-images/mobile/image-small-team.jpg"
+  },
+  "aboutData": {
+    "hero": {
+      "image": {
+        "desktop": "/assets/images/about-images/desktop/image-hero.jpg",
+        "tablet": "/assets/images/about-images/tablet/image-hero.jpg",
+        "mobile": "/assets/images/about-images/mobile/image-hero.jpg"
+      },
+      "headingLarge": "about",
+      "heading": "Your team of professionals",
+      "paragraph": "Our small team of world-class professionals will work with you every step of the way. Strong relationships are at the core of everything we do. This extends to the relationship our projects have with their surroundings."
+    },
+    "heritage": {
+      "heritageImg": "/assets/images/about-images/desktop/image-heritage.jpg",
+      "heading": "Our Heritage",
+      "paragraphs": {
+        "one": "Founded in 2007, we started as a trio of architects. Our complimentary skills and relentless attention to detail turned Arch into one of the most sought after boutique firms in the country.",
+        "two": "Speciliazing in Urban Design allowed us to focus on creating exceptional structures that live in harmony with their surroundings. We consider every detail from every surrounding element to inform our designs.",
+        "three": "Our small team of world-class professionals provides input on every project."
+      }
+    },
+    "leaders": {
+      "heading": "The Leaders",
+      "leadersInfo": [
+        {
+          "name": "Jake Richards",
+          "role": "Chief Architect",
+          "img": "/assets/images/about-images/desktop/avatar-jake.jpg"
+        },
+        {
+          "name": "Thompson Smith",
+          "role": "Head of Finance",
+          "img": "/assets/images/about-images/desktop/avatar-thompson.jpg"
+        },
+        {
+          "name": "Jackson Rourke",
+          "role": "Lead Designer",
+          "img": "/assets/images/about-images/desktop/avatar-jackson.jpg"
+        },
+        {
+          "name": "Maria Simpson",
+          "role": "Senior Architect",
+          "img": "/assets/images/about-images/desktop/avatar-maria.jpg"
+        }
+      ]
+    }
+  },
+  "contactData": {
+    "hero": {
+      "image": {
+        "desktop": "/assets/images/contact-images/desktop/image-hero.jpg",
+        "tablet": "/assets/images/contact-images/tablet/image-hero.jpg",
+        "mobile": "/assets/images/contact-images/mobile/image-hero.jpg"
+      },
+      "headingLarge": "contact",
+      "heading": "Tell us about your project",
+      "paragraph": "We’d love to hear more about your project. Please, leave a message below or give us a call. We have two offices, one in Texas and one in Tennessee. If you find yourself nearby, come say hello!"
+    },
+    "sectionDetailsAndMap": {
+      "offices": [
+        {
+          "name": "Main Office",
+          "mail": "archone@gmail.com",
+          "address": "1892 Chenoweth Drive TN",
+          "phone": "123-456-3451",
+          "coordinates": { "lat": 32.195189, "lng": -95.852155 }
+        },
+        {
+          "name": "Office II",
+          "mail": "archtwo@gmail.com",
+          "address": "399 Wines Lane TX",
+          "phone": "832-123-4321",
+          "coordinates": { "lat": 35.432421, "lng": -83.150185 }
+        }
+      ],
+      "defaultMap": {
+        "coordinates": {
+          "lat": 34.756846,
+          "lng": -90.068075
+        },
+        "zoom": 5
+      }
+    }
+  },
+  "portfolioData": [
+    {
+      "id": 1,
+      "title": "Seraph Station",
+      "date": "September 2019",
+      "image": {
+        "desktop": "/assets/images/portfolio-images/desktop/image-seraph.jpg",
+        "tablet": "/assets/images/portfolio-images/tablet/image-seraph.jpg",
+        "mobile": "/assets/images/portfolio-images/mobile/image-seraph.jpg"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Eebox Building",
+      "date": "August 2017",
+      "image": {
+        "desktop": "/assets/images/portfolio-images/desktop/image-eebox.jpg",
+        "tablet": "/assets/images/portfolio-images/tablet/image-eebox.jpg",
+        "mobile": "/assets/images/portfolio-images/mobile/image-eebox.jpg"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Federal II Tower",
+      "date": "March 2017",
+      "image": {
+        "desktop": "/assets/images/portfolio-images/desktop/image-federal.jpg",
+        "tablet": "/assets/images/portfolio-images/tablet/image-federal.jpg",
+        "mobile": "/assets/images/portfolio-images/mobile/image-federal.jpg"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Project Del So",
+      "date": "January 2016",
+      "image": {
+        "desktop": "/assets/images/portfolio-images/desktop/image-del-sol.jpg",
+        "tablet": "/assets/images/portfolio-images/tablet/image-del-sol.jpg",
+        "mobile": "/assets/images/portfolio-images/mobile/image-del-sol.jpg"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Le Prototype",
+      "date": "October 2015",
+      "image": {
+        "desktop": "/assets/images/portfolio-images/desktop/image-prototype.jpg",
+        "tablet": "/assets/images/portfolio-images/tablet/image-prototype.jpg",
+        "mobile": "/assets/images/portfolio-images/mobile/image-prototype.jpg"
+      }
+    },
+    {
+      "id": 6,
+      "title": "228B Tower",
+      "date": "April 2015",
+      "image": {
+        "desktop": "/assets/images/portfolio-images/desktop/image-228b.jpg",
+        "tablet": "/assets/images/portfolio-images/tablet/image-228b.jpg",
+        "mobile": "/assets/images/portfolio-images/mobile/image-228b.jpg"
+      }
+    },
+    {
+      "id": 7,
+      "title": "Grand Edelweiss Hotel",
+      "date": "December 2013",
+      "image": {
+        "desktop": "/assets/images/portfolio-images/desktop/image-edelweiss.jpg",
+        "tablet": "/assets/images/portfolio-images/tablet/image-edelweiss.jpg",
+        "mobile": "/assets/images/portfolio-images/mobile/image-edelweiss.jpg"
+      }
+    },
+    {
+      "id": 8,
+      "title": "Netcry Tower",
+      "date": "August 2012",
+      "image": {
+        "desktop": "/assets/images/portfolio-images/desktop/image-netcry.jpg",
+        "tablet": "/assets/images/portfolio-images/tablet/image-netcry.jpg",
+        "mobile": "/assets/images/portfolio-images/mobile/image-netcry.jpg"
+      }
+    },
+    {
+      "id": 9,
+      "title": "Hypers",
+      "date": "January 2012",
+      "image": {
+        "desktop": "/assets/images/portfolio-images/desktop/image-hypers.jpg",
+        "tablet": "/assets/images/portfolio-images/tablet/image-hypers.jpg",
+        "mobile": "/assets/images/portfolio-images/mobile/image-hypers.jpg"
+      }
+    },
+    {
+      "id": 10,
+      "title": "SXIV Tower",
+      "date": "March 2011",
+      "image": {
+        "desktop": "/assets/images/portfolio-images/desktop/image-sxiv.jpg",
+        "tablet": "/assets/images/portfolio-images/tablet/image-sxiv.jpg",
+        "mobile": "/assets/images/portfolio-images/mobile/image-sxiv.jpg"
+      }
+    },
+    {
+      "id": 11,
+      "title": "Trinity Bank Tower",
+      "date": "September 2010",
+      "image": {
+        "desktop": "/assets/images/portfolio-images/desktop/image-trinity.jpg",
+        "tablet": "/assets/images/portfolio-images/tablet/image-trinity.jpg",
+        "mobile": "/assets/images/portfolio-images/mobile/image-trinity.jpg"
+      }
+    },
+    {
+      "id": 12,
+      "title": "Project Paramour",
+      "date": "February 2008",
+      "image": {
+        "desktop": "/assets/images/portfolio-images/desktop/image-paramour.jpg",
+        "tablet": "/assets/images/portfolio-images/tablet/image-paramour.jpg",
+        "mobile": "/assets/images/portfolio-images/mobile/image-paramour.jpg"
+      }
+    }
+  ]
+}
