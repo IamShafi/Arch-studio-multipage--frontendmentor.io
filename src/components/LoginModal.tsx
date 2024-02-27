@@ -50,7 +50,6 @@ const LoginModal: React.FC<LoginModalProps> = ({
         } else {
           // Handle successful login if needed
           console.log("Login successful {}");
-          
         }
       });
       onClose();
@@ -129,7 +128,7 @@ const LoginModal: React.FC<LoginModalProps> = ({
 
         <footer className="mt-12 text-white max-md:mt-10 max-md:max-w-full">
           <div>
-            Don't have an account? Create an account{" "}
+            Don&apos;t have an account? Create an account{" "}
             <span
               onClick={openRegisterModal}
               className="text-[#040404] underline cursor-pointer"
