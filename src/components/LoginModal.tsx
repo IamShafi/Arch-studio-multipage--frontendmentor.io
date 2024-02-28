@@ -86,7 +86,7 @@ const LoginModal: React.FC<LoginModalProps> = ({
               {...register("email")}
               type="email"
               id="email"
-              placeholder="example@mail.com"
+              placeholder="demoUser-salekin68@gmail.com"
               className="justify-center items-start px-[31px] pt-[11px] pb-[17px] mt-[14px] rounded-xl bg-neutral-950"
             />
             {errors.email && (
@@ -104,7 +104,7 @@ const LoginModal: React.FC<LoginModalProps> = ({
               {...register("password")}
               type="password"
               id="password"
-              placeholder="Enter your password"
+              placeholder="demoUser- 123123"
               className="justify-center items-start px-[31px] pt-[11px] pb-[17px] mt-[14px] rounded-xl bg-neutral-950 "
             />
             {errors.password && (
